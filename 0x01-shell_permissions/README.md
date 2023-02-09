@@ -22,3 +22,5 @@ Explanation for each script down below.
 --> a script where owner has permission to read,write and execute,but group owner can only read and execute but not write and other users can write and execute
 10-mirror_permissions
 --> this script mirrors the permissions of one file to another
+11-directories_permissions
+--> this script addds execute permission to all subdirectories of the current directory.
