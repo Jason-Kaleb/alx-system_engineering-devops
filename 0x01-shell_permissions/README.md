@@ -14,3 +14,5 @@ Explanation for each script down below.
 -->adds execute permission to the owner of the file hello
 6-multiple_permissions
 -->adds execute permissions to the owneer and group owner and read permission to other users to the file hello
+7-everybody
+-->adds execution permission to everybody
