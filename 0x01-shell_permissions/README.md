@@ -16,3 +16,5 @@ Explanation for each script down below.
 -->adds execute permissions to the owneer and group owner and read permission to other users to the file hello
 7-everybody
 -->adds execution permission to everybody
+8-James_Bond
+--> No one has permission to do anything besides other users who can read,write and execute
