@@ -20,3 +20,5 @@ Explanation for each script down below.
 --> No one has permission to do anything besides other users who can read,write and execute
 9-John_Doe
 --> a script where owner has permission to read,write and execute,but group owner can only read and execute but not write and other users can write and execute
+10-mirror_permissions
+--> this script mirrors the permissions of one file to another
