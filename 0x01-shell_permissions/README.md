@@ -28,3 +28,5 @@ Explanation for each script down below.
 --> creates a directory with permissions 751 in the working directory
 13-change_group
 --> changes the group owner for a file
+100-change_owner_and_group
+--> changes the owner and group of all files in the working directory
