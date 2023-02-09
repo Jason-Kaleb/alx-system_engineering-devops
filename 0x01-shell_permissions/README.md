@@ -10,3 +10,5 @@ Explanation for each script down below.
 -->chnages the owner of a file to someone else in this case it is betty
 4-empty
 -->creates an empty file called hello
+5-execute
+-->adds execute permission to the owner of the file hello
