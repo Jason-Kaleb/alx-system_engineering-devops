@@ -24,3 +24,5 @@ Explanation for each script down below.
 --> this script mirrors the permissions of one file to another
 11-directories_permissions
 --> this script addds execute permission to all subdirectories of the current directory.
+12-directory_permissions
+--> creates a directory with permissions 751 in the working directory
