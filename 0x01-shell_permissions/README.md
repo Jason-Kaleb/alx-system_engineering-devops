@@ -6,3 +6,5 @@ Explanation for each script down below.
 -->prints the username of the current user
 2-groups
 -->prints all the groups that the current user is in
+3-new_owner
+-->chnages the owner of a file to someone else in this case it is betty
