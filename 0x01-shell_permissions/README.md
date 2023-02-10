@@ -30,3 +30,5 @@ Explanation for each script down below.
 --> changes the group owner for a file
 100-change_owner_and_group
 --> changes the owner and group of all files in the working directory
+101-symbolic_link_permissions
+--> changes owner and group owner of a symbolink 
