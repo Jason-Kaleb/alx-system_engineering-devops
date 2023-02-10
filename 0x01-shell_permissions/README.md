@@ -33,4 +33,6 @@ Explanation for each script down below.
 101-symbolic_link_permissions
 --> changes owner and group owner of a symbolink
 102-if_only
---> changes the owner of the file only if a certain condition is met 
+--> changes the owner of the file only if a certain condition is met
+103-Star_Wars
+--> supposed to play an episode of star wars in the terminal 
